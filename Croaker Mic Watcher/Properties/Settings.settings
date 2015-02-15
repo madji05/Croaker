@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Croaker_Mic_Watcher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RoomName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PLaYa_L0uNgE</Value>
+    </Setting>
+    <Setting Name="DataPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\croaker\micsessions.xml</Value>
+    </Setting>
+    <Setting Name="SafeListPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\croaker\safelist.xml</Value>
+    </Setting>
+    <Setting Name="WarnThreshold" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:06:00</Value>
+    </Setting>
+    <Setting Name="BlockThreshold" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:07:00</Value>
+    </Setting>
+    <Setting Name="BlockPeriod" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="ResetInterval" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:20:00</Value>
+    </Setting>
+    <Setting Name="AutoUnblock" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SendToRoom" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="WarnUser" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BlockUser" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
